@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { CardInicial } from "./components/CardInicial"
-import { CardFinal } from "./assets/components/CardFinal"
+import { CardFinal } from "./components/CardFinal"
 
 export function App() {
 
